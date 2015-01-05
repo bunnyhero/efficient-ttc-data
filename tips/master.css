@@ -1,0 +1,19 @@
+/* master.css */
+body { padding:0; margin:0; font: 14px Helvetica; background: #888; -webkit-text-size-adjust: none;}
+
+article {
+    display: block;
+    padding: 8px 12px;
+    -webkit-border-radius: 10px;
+    border: 1px solid #ccc;
+    margin: 10px;
+    background: white;
+}
+
+.submitter {
+    font-style: italic;
+    text-align: right;
+    margin-top: 4px;
+}
+
+ul { padding: 0 0 0 20px; margin: 0; text-indent: 0; }

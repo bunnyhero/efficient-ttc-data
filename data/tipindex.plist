@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Efficiency Tips</string>
+		<key>file</key>
+		<string>efficiency</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Tips to Make Your Trip More Comfortable</string>
+		<key>file</key>
+		<string>comfort</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Fare Tips</string>
+		<key>file</key>
+		<string>fare</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Safety Tips</string>
+		<key>file</key>
+		<string>safety</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Bonus Escalator Safety Tips</string>
+		<key>file</key>
+		<string>escalator</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Shopping Tips</string>
+		<key>file</key>
+		<string>shop</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Tips for the Self-interested</string>
+		<key>file</key>
+		<string>self</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Tips About Patience</string>
+		<key>file</key>
+		<string>patience</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Getting a Seat</string>
+		<key>file</key>
+		<string>seat</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Catching the Next Train</string>
+		<key>file</key>
+		<string>train</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Catching the Next Bus and Streetcar</string>
+		<key>file</key>
+		<string>bus</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Sleeping Tips</string>
+		<key>file</key>
+		<string>sleep</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Entertaining Yourself En Route</string>
+		<key>file</key>
+		<string>entertain</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>More than Just a Ride</string>
+		<key>file</key>
+		<string>more</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Useful Knowledge</string>
+		<key>file</key>
+		<string>useful</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Courtesy, Please</string>
+		<key>file</key>
+		<string>courtesy</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Tips to Aid You Using the TTC Subway Rider Efficiency Guide</string>
+		<key>file</key>
+		<string>tsreg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Tips for When Your Kids Start Traveling On Their Own</string>
+		<key>file</key>
+		<string>kids</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Tips for Traveling with Young Children</string>
+		<key>file</key>
+		<string>young</string>
+	</dict>
+</array>
+</plist>
