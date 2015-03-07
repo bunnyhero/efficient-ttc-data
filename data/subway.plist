@@ -10,7 +10,7 @@
 			<key>name</key>
 			<string>Yonge-University-Spadina</string>
 			<key>abbrev</key>
-			<string>Y•U•S</string>
+			<string>Line 1</string>
 			<key>stations</key>
 			<array>
 				<string>down</string>
@@ -53,7 +53,7 @@
 			<key>name</key>
 			<string>Bloor-Danforth</string>
 			<key>abbrev</key>
-			<string>B•D</string>
+			<string>Line 2</string>
 			<key>stations</key>
 			<array>
 				<string>kipl</string>
@@ -95,7 +95,7 @@
 			<key>name</key>
 			<string>Scarborough RT</string>
 			<key>abbrev</key>
-			<string>SRT</string>
+			<string>Line 3</string>
 			<key>stations</key>
 			<array>
 				<string>ken3</string>
@@ -112,7 +112,7 @@
 			<key>name</key>
 			<string>Sheppard</string>
 			<key>abbrev</key>
-			<string>SH</string>
+			<string>Line 4</string>
 			<key>stations</key>
 			<array>
 				<string>shy4</string>
