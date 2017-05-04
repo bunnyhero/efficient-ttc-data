@@ -127,7 +127,7 @@
 	<array>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>vipa</string>
 			<key>line</key>
@@ -231,7 +231,7 @@
 			<key>line</key>
 			<string>1YUS</string>
 			<key>name</key>
-			<string>Downsview</string>
+			<string>Sheppard West (formerly Downsview)</string>
 			<key>order</key>
 			<integer>1</integer>
 			<key>quirk</key>
@@ -449,7 +449,7 @@
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>duff</string>
 			<key>line</key>
@@ -687,7 +687,7 @@
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>ossi</string>
 			<key>line</key>
@@ -729,7 +729,7 @@
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>pape</string>
 			<key>line</key>
@@ -813,7 +813,7 @@
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>stan</string>
 			<key>line</key>
@@ -1107,7 +1107,7 @@
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>laww</string>
 			<key>line</key>
