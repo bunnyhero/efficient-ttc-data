@@ -13,6 +13,12 @@
 			<string>Line 1</string>
 			<key>stations</key>
 			<array>
+				<string>vaug</string>
+				<string>h407</string>
+				<string>pion</string>
+				<string>youn</string>
+				<string>fiwe</string>
+				<string>dopa</string>
 				<string>down</string>
 				<string>wils</string>
 				<string>york</string>
@@ -1161,6 +1167,78 @@
 			<key>quirk</key>
 			<string></string>
 		</dict>
+        <dict>
+            <key>accessible</key>
+            <true/>
+            <key>key</key>
+            <string>vaug</string>
+            <key>line</key>
+            <string>1YUS</string>
+            <key>name</key>
+            <string>Vaughan Metropolitan Centre</string>
+            <key>quirk</key>
+            <string></string>
+        </dict>
+        <dict>
+            <key>accessible</key>
+            <true/>
+            <key>key</key>
+            <string>h407</string>
+            <key>line</key>
+            <string>1YUS</string>
+            <key>name</key>
+            <string>Highway 407</string>
+            <key>quirk</key>
+            <string></string>
+        </dict>
+        <dict>
+            <key>accessible</key>
+            <true/>
+            <key>key</key>
+            <string>pion</string>
+            <key>line</key>
+            <string>1YUS</string>
+            <key>name</key>
+            <string>Pioneer Village</string>
+            <key>quirk</key>
+            <string></string>
+        </dict>
+        <dict>
+            <key>accessible</key>
+            <true/>
+            <key>key</key>
+            <string>youn</string>
+            <key>line</key>
+            <string>1YUS</string>
+            <key>name</key>
+            <string>York University</string>
+            <key>quirk</key>
+            <string></string>
+        </dict>
+        <dict>
+            <key>accessible</key>
+            <true/>
+            <key>key</key>
+            <string>fiwe</string>
+            <key>line</key>
+            <string>1YUS</string>
+            <key>name</key>
+            <string>Finch West</string>
+            <key>quirk</key>
+            <string></string>
+        </dict>
+        <dict>
+            <key>accessible</key>
+            <true/>
+            <key>key</key>
+            <string>dopa</string>
+            <key>line</key>
+            <string>1YUS</string>
+            <key>name</key>
+            <string>Downsview Park</string>
+            <key>quirk</key>
+            <string></string>
+        </dict>
 	</array>
 </dict>
 </plist>
