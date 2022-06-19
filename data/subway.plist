@@ -8,7 +8,7 @@
 			<key>key</key>
 			<string>1YUS</string>
 			<key>name</key>
-			<string>Yonge-University-Spadina</string>
+			<string>Yonge-University</string>
 			<key>abbrev</key>
 			<string>Line 1</string>
 			<key>stations</key>
@@ -99,7 +99,7 @@
 			<key>key</key>
 			<string>3SR</string>
 			<key>name</key>
-			<string>Scarborough RT</string>
+			<string>Scarborough</string>
 			<key>abbrev</key>
 			<string>Line 3</string>
 			<key>stations</key>
