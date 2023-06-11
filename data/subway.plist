@@ -1071,7 +1071,7 @@
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>lans</string>
 			<key>line</key>
