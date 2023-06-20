@@ -147,7 +147,7 @@
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>ches</string>
 			<key>line</key>
@@ -259,7 +259,7 @@
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>sher</string>
 			<key>line</key>
@@ -553,7 +553,7 @@
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>wood</string>
 			<key>line</key>
@@ -749,7 +749,7 @@
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>coxw</string>
 			<key>line</key>
@@ -875,7 +875,7 @@
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>royo</string>
 			<key>line</key>
@@ -1015,7 +1015,7 @@
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>bay</string>
 			<key>line</key>
@@ -1155,7 +1155,7 @@
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>runn</string>
 			<key>line</key>
