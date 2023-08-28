@@ -175,7 +175,7 @@
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>well</string>
 			<key>line</key>
@@ -329,7 +329,7 @@
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>dupo</string>
 			<key>line</key>
@@ -413,7 +413,7 @@
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>york</string>
 			<key>line</key>
@@ -637,7 +637,7 @@
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>wils</string>
 			<key>line</key>
@@ -651,7 +651,7 @@
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>stpa</string>
 			<key>line</key>
@@ -903,7 +903,7 @@
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>stcw</string>
 			<key>line</key>
