@@ -96,6 +96,25 @@
 			</array>
 		</dict>
 		<dict>
+			<key>defunct</key>
+			<true/>
+			<key>key</key>
+			<string>3SR</string>
+			<key>name</key>
+			<string>Scarborough</string>
+			<key>abbrev</key>
+			<string>Line 3</string>
+			<key>stations</key>
+			<array>
+				<string>ken3</string>
+				<string>lawe</string>
+				<string>elle</string>
+				<string>midl</string>
+				<string>scce</string>
+				<string>mcco</string>
+			</array>
+		</dict>
+		<dict>
 			<key>key</key>
 			<string>4S</string>
 			<key>name</key>
