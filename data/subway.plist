@@ -271,7 +271,7 @@
 			<key>order</key>
 			<integer>19</integer>
 			<key>quirk</key>
-			<string>TTC Photo ID office is located here</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>accessible</key>
@@ -369,11 +369,11 @@
 			<key>order</key>
 			<integer>21</integer>
 			<key>quirk</key>
-			<string>station will soon have a double track streetcar platform</string>
+			<string>station has double track streetcar platform, can hold 3 streetcars at the same time, and future expansions are planned if Green P Parking can be convinced to give up a small number of parking spaces</string>
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>donl</string>
 			<key>line</key>
@@ -397,7 +397,7 @@
 			<key>order</key>
 			<integer>16</integer>
 			<key>quirk</key>
-			<string>currently under renovation. expect changes soon.</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>accessible</key>
@@ -453,7 +453,7 @@
 			<key>order</key>
 			<integer>18</integer>
 			<key>quirk</key>
-			<string>has a roughed in station beneath for an underground Queen streetcar line that was never built</string>
+			<string>will become a major Ontario Line transfer station when that new line opens in the 2030’s.</string>
 		</dict>
 		<dict>
 			<key>accessible</key>
@@ -747,7 +747,7 @@
 			<key>order</key>
 			<integer>23</integer>
 			<key>quirk</key>
-			<string>only station that allows people to walk in front of TTC buses on TTC property</string>
+			<string>no longer possible to walk in front of buses, but will become a major Ontario Line transfer station when that new line opens in the 2030’s.</string>
 		</dict>
 		<dict>
 			<key>accessible</key>
@@ -761,7 +761,7 @@
 			<key>order</key>
 			<integer>26</integer>
 			<key>quirk</key>
-			<string>located beside the Bus Terminal diner, which was a bus terminal serving east Toronto and beyond before the expansion of rapid transit</string>
+			<string>located beside the Bus Terminal diner, which was a bus terminal serving east Toronto and beyond before the expansion of rapid transit. the old bus terminal diner is now an A&amp;W</string>
 		</dict>
 		<dict>
 			<key>accessible</key>
@@ -971,7 +971,7 @@
 			<key>order</key>
 			<integer>18</integer>
 			<key>quirk</key>
-			<string>busiest station</string>
+			<string>under major renovation to build a new eastbound platform for Line 2</string>
 		</dict>
 		<dict>
 			<key>accessible</key>
@@ -1139,7 +1139,7 @@
 			<key>order</key>
 			<integer>14</integer>
 			<key>quirk</key>
-			<string>persistent rumours exist that there is a roughed-in station beneath the main station. Likely an urban legend</string>
+			<string>will become a major Ontario Line transfer station when that new line opens in the 2030’s</string>
 		</dict>
 		<dict>
 			<key>accessible</key>
