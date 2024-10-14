@@ -1,10 +1,9 @@
 efficient-ttc-data
 ==================
 
-2013-06-20
+These maps and data are adapted from "The TTC Subway Rider Efficiency Guide" (archived at <https://ttc-rider.ca>) © Sean Lerner, under a Creative Commons Attribution-NonCommercial-ShareAlike licence: <http://creativecommons.org/licenses/by-nc-sa/2.0/>.
 
-These maps and data are adapted from "The TTC Subway Rider Efficiency Guide" http://ttcrider.ca © Sean Lerner, under a Creative Commons Attribution-NonCommercial-ShareAlike licence: <http://creativecommons.org/licenses/by-nc-sa/2.0/> This adapted data is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike licence <http://creativecommons.org/licenses/by-nc-sa/3.0/>
-
+This adaptation, Efficient TTC Data © by bunnyhero is licensed under CC BY-NC-SA 4.0 <http://creativecommons.org/licenses/by-nc-sa/4.0/>
 
 data/
 -----
