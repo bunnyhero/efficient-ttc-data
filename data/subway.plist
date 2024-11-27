@@ -401,7 +401,7 @@
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>glen</string>
 			<key>line</key>
