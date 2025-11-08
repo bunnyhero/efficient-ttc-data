@@ -1045,7 +1045,7 @@
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>cast</string>
 			<key>line</key>
