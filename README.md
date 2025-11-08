@@ -1,3 +1,11 @@
+---
+
+# This repo has moved to Codeberg:
+
+https://codeberg.org/bunnyhero/efficient-ttc-data
+
+---
+
 efficient-ttc-data
 ==================
 
