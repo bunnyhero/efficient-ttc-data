@@ -1003,7 +1003,7 @@
 		</dict>
 		<dict>
 			<key>accessible</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>hipa</string>
 			<key>line</key>
