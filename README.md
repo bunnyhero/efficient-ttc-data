@@ -1,3 +1,12 @@
+---
+
+# ⚠️ REPO HAS MOVED ⚠️
+
+Please visit https://worktree.ca/bunnyhero/efficient-ttc-data
+
+---
+
+
 efficient-ttc-data
 ==================
 
